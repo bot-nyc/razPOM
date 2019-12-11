@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15950" started-at="2019-12-11T20:50:31Z" finished-at="2019-12-11T20:50:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15950" started-at="2019-12-11T20:50:31Z" finished-at="2019-12-11T20:50:47Z">
+      <class name="com.qa.project.tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.project.tests.HomePageTest@457e2f02]" name="setup" is-config="true" duration-ms="12015" started-at="2019-12-11T20:50:31Z" finished-at="2019-12-11T20:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.qa.project.tests.HomePageTest@457e2f02]" name="verifyHomePageTitleTest" duration-ms="3914" started-at="2019-12-11T20:50:43Z" finished-at="2019-12-11T20:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.project.tests.HomePageTest@457e2f02]" name="teardown" is-config="true" duration-ms="0" started-at="2019-12-11T20:50:47Z" finished-at="2019-12-11T20:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.project.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
